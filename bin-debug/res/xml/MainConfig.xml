@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
 		<conf TITLE="GamesConfig" URL="xml/GamesConfig.xml" TYPE="XML"/>
-		
+		<conf TITLE="crot_new" URL="swf/crot_new.swf" TYPE="SWF"/>
+		<conf TITLE="popup" URL="swf/popup.swf" TYPE="SWF"/>
+		<conf TITLE="gameplay" URL="swf/gameplay.swf" TYPE="SWF"/>
 </config>

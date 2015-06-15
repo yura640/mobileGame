@@ -3,14 +3,14 @@
 	<game NUMBER="0">
 		<property NAME ="art_path" VALUE=""/>
 		<property NAME ="time_of_enemie_generate" VALUE="1000"/>
-		<property NAME ="type_of_enemie" VALUE="1"/>
-		<property NAME ="level_time" VALUE="20"/>
-		<property NAME ="scores_to_next_level" VALUE="2500"/>
+		<property NAME ="type_of_enemie" VALUE="2"/>
+		<property NAME ="level_time" VALUE="10"/>
+		<property NAME ="scores_to_next_level" VALUE="500"/>
 	</game>
 	<game NUMBER="1">
 		<property NAME ="art_path" VALUE=""/>
 		<property NAME ="time_of_enemie_generate" VALUE="800"/>
-		<property NAME ="type_of_enemie" VALUE="2"/>
+		<property NAME ="type_of_enemie" VALUE="1"/>
 		<property NAME ="level_time" VALUE="10"/>
 		<property NAME ="scores_to_next_level" VALUE="500"/>
 	</game>
